@@ -1,50 +1,64 @@
-# Logistics Performance & Profitability Analysis
+# 🚚  Logistics Performance & Profitability Analysis#
 
-## Project Overview
-A 6-page interactive Power BI dashboard delivering operational insights across fleet, driver, route, fuel, customer and maintenance performance for a US-based logistics operation covering 3 years (2022-2024) across 14 interconnected datasets.
+A 7-page interactive Power BI dashboard delivering operational insights across fleet, driver, route, fuel, customer and maintenance performance for a US-based logistics operation.
+
+---
+
+## 📌 Project Overview
+
+A 7-page interactive Power BI dashboard delivering operational insights across fleet, driver, route, fuel, customer and maintenance performance for a US-based logistics operation covering 3 years (2022-2024) across 14 interconnected datasets.
 
 ## Dataset
 - 14 CSV files covering fleet, drivers, routes,
   fuel, customers and maintenance data
 - Data Period: January 2022 - December 2024
 
-## Dashboard Pages
-- Page 1 — Executive Overview
-- Page 2 — Fleet Performance
-- Page 3 — Driver Performance
-- Page 4 — Route & Delivery Analysis
-- Page 5 — Maintenance & Safety Analysis
-- Page 6 — Customer Performance & Revenue Analysis
-- Page 7 — Insights & Recommendations
+---
 
-## Key Metrics
-- Total Revenue: $262.53M
-- Total Profit: $164.97M
-- Total Fuel Cost: $91.83M
-- Total Trips: 80K
-- On-Time Delivery Rate: 55.67%
-- Active Customers: 168 of 200
+## 📊 Dashboard Pages
 
-## Key Findings
-- Only 48.8% of $537M revenue potential is being captured — a $275M growth opportunity remains
-- 32 customers (16%) are inactive representing untapped recoverable revenue
-- On-time delivery rate is only 55.67% — 123 out of 150 drivers average below 50%
-- Revenue remained remarkably stable quarter to quarter — ranging narrowly between $21.54M and $22.21M per quarter,2022 Q3 was the single best performing quarter at $22.21M — 2022 Q1 was the lowest at $21.54M
-- 38% of safety incidents were preventable
-- DOT Violations lead all incident types at 39
-- Philadelphia to Seattle is the top revenue route at $10.07M
-- Average detention time is 91.5 minutes totalling 260,607 lost operational hours
+| Page | Title |
+|------|-------|
+| 1 | Executive Overview |
+| 2 | Fleet Performance |
+| 3 | Driver Performance |
+| 4 | Route & Delivery Analysis |
+| 5 | Maintenance & Safety Analysis |
+| 6 | Customer Performance & Revenue Analysis |
+| 7 | Insights & Recommendations |
 
-## Recommendations
-- Re-engage 32 inactive customers to recover 
-  lost revenue
-- Schedule preventive maintenance during 
-  low-demand months to avoid peak downtime
-- Implement driver performance improvement 
-  programme targeting 123 underperforming drivers
-- Introduce mandatory DOT compliance and safety training to reduce violations
-- Deploy driver monitoring technology in Texas 
-  and Tennessee to reduce high-claim incidents
+---
+
+## 🔑 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total Revenue | $262.53M |
+| Total Profit | $164.97M |
+| Total Fuel Cost | $91.83M |
+| Total Maintenance Cost | $5.73M |
+| Total Trips | 80K |
+| On-Time Delivery Rate | 55.67% |
+| Average Fleet MPG | 6.50 |
+| Total Safety Incidents | 170 |
+| Active Customers | 168 of 200 |
+| Annual Revenue Capture Rate | 16.3% of $537M potential |
+
+---
+
+## 💡 Key Findings
+- 2022 was the strongest year, 2022 Q3 was the single best performing quarter at $22.21M across the entire 3-year period
+- Most customers are significantly below their annual revenue potential — indicating under-utilization of existing accounts
+- Only 76.67% of the fleet is active — 15 trucks are under maintenance and 13 are inactive
+- DOT Violations lead all safety incident types at 39 — posing the highest regulatory and compliance risk
+- Texas leads all states in claim amounts at $268K followed by Tennessee at $228K
+
+## ✅ Recommendations
+- Capitalize on Q2 and Q3 momentum by ensuring maximum fleet availability and driver capacity during those quarters
+- Develop a structured account growth plan for customers significantly below their annual revenue
+- Review the 28 inactive trucks — decommission or repair them to improve fleet availability
+- Introduce mandatory DOT compliance training to reduce the 39 violations 
+- Deploy driver monitoring technology in Texas and Tennessee to reduce at-fault incidents in high-claim states
 
 ## Tools Used
 - Power BI Desktop
@@ -56,7 +70,10 @@ A 6-page interactive Power BI dashboard delivering operational insights across f
 - logistics_dashboard.pbix
 - 14 CSV dataset files
 
-## Author
-Anita Enuenwemba Esther
-Data Analyst | Power BI · SQL · DAX · Power Query
-Lagos, Nigeria
+---
+
+## 👤 Author
+
+**Anita Enuenwemba Esther **
+Data Analyst | Power BI | SQL | DAX | Power Query
+📍 Lagos, Nigeria
