@@ -42,7 +42,6 @@ A 7-page interactive Power BI dashboard delivering operational insights across f
 | Average Fleet MPG | 6.50 |
 | Total Safety Incidents | 170 |
 | Active Customers | 168 of 200 |
-| Annual Revenue Capture Rate | 16.3% of $537M potential |
 
 ---
 
